@@ -1,0 +1,23 @@
+.color-hover:hover {
+  border-color: #263238 !important;
+  background-color: #ECEFF1 ;
+}
+
+.color-hover:hover h4 {
+  color: #263238 !important;
+}
+
+.color-hover:hover i {
+  color: #263238 !important;
+}
+
+.zoom:hover a {
+  transform: scale(1.4);
+}
+.zoom:hover {
+  border-color: red !important;
+  z-index: 1;
+}
+.muted-hover:hover span {
+  color: white
+}
