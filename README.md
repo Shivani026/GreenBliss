@@ -1,1 +1,2 @@
 # GreenBliss
+Green Bliss is a web application introduced with an objective of providing an e-commerce platform for gardening-enthusiasts. It provides a platform for the nursery owner to sell his products like saplings, seeds, fertilizers and other gardening/horticulture equipment. It will ease the efforts for owners as well as the customer and will save their time and efforts. It also eliminate a lot of paper work and make things hassle-free.
